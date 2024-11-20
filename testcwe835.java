@@ -4,8 +4,7 @@ public class testcwe835 {
             for (int j = 0; i < 10; j++) {
                 // 执行操作
                 System.out.println(i);
-               
+            }
             }
         }
     }
-
